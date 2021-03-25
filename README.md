@@ -7,7 +7,7 @@ My main research interest lies in **Natural Langauge Processing (NLP)** and **Co
 ## Current Projects
 
 ### Personal Projects
-- Cuss-Net : A Python-TensorFlow Neural Network for English, Filipino, & Taglish Sentiment Analysis
+- [Cuss-Net](https://github.com/AdrielAmoguis/Cuss-Net) : A Python-TensorFlow Neural Network for English, Filipino, & Taglish Sentiment Analysis
     - I am currently collecting Tagalog sentiment data to construct a Tagalog dataset for sentiments (negative, neutral, positive). If you want to contribute some sentences for this project, that is highly appreciated! You may submit sentences [here](https://forms.gle/XrDCEFSLVYdCFUjH6). If you want to contribute hands-on to this project, you may send me an [email](mailto:adriel@adrielamoguis.com).
 
 ### Organization Projects
