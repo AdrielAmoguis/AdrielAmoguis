@@ -4,6 +4,8 @@ I am currently a second year undergraduate student in De La Salle University (DL
 
 My main research interest lies in **Natural Langauge Processing (NLP)** and **Computer Vision (CV)**. As of time of writing, I reviewed some research papers on the topics and reading up on machine learning techniques. However, no hands-on work has been made so far. On the other hand, my main development skill set leans more into Full Stack Web Development (esp Back-end), DevOps, & Computer Software Development.
 
+[Visit About Page to Read More](https://adrielamoguis.github.io)
+
 ## Current Projects
 
 ### Personal Projects
